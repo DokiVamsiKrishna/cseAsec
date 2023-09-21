@@ -8,7 +8,7 @@ public class Sample {
 	}
 	public static void vamsi() {
 		// TODO Auto-generated method stub
-		System.out.println("This is team lead : vamsi");
+		System.out.println("This is team lead : va");
 	}
 
 }
